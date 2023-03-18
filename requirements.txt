@@ -52,7 +52,6 @@ shtab==1.5.8
 six==1.16.0
 smmap==5.0.0
 streamlit==1.20.0
-team==1.0
 termcolor==2.2.0
 tldr==3.1.0
 toml==0.10.2
