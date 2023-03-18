@@ -29,7 +29,6 @@ psutil==5.9.4
 pyaml==21.10.1
 pyarrow==11.0.0
 pycairo==1.23.0
-pycups==2.0.1
 pycurl==7.45.2
 pydeck==0.8.0
 Pygments==2.14.0
